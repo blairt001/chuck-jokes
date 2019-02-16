@@ -1,6 +1,6 @@
 # chuck-jokes
 
-This is a PHP Laravel Package that retrieves random Chucknorris jokes.
+This is a PHP Laravel Package that retrieves random Chucknorris jokes and displays it on your terminal.
 
 ## Introduction
 
