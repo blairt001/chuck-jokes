@@ -1,0 +1,27 @@
+{
+    "name": "blairt/chuck-jokes",
+    "description": "Retrieve a random Chucknorris joke",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tony Okoth",
+            "email": "blairt371.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Blairt\\Chuck\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Blairt\\Chuck\\ChuckServiceProvider"
+            ]
+        }
+    }
+}
