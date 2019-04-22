@@ -20,4 +20,10 @@ To get started with chuck-jokes, simply run:
 
 Chuck-jokes is an open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## Credit
+[Crafted Systems Limited](http://crafted.co.ke/)
+
+## Developer
+Tony Blair
+
 Thank you.
